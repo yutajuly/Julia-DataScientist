@@ -16,7 +16,7 @@ Julia v1.0.2
 JuliaとJupyter Notebook導入：[WindowsでJupyter notebookにJulia v1.0を追加してHello,Worldするまでのメモ](https://qiita.com/SouTakenaka/items/ccfbb5a85330e97af70c)   
 JuliaとPycharm導入：[JuliaのインストールとIntelliJ IDEAでの開発環境の構築](http://yutajuly.hatenablog.com/entry/2018/11/25/171934)   
 
-### その他のJulia入門のおすすめサイト
+### 参考記事
 [Julia高速チュートリアル@bicycle1885](https://github.com/bicycle1885/Julia-Tutorial)   
 [St_Hakky’s blog Julia入門](http://st-hakky.hatenablog.com/archive/category/Julia)   
 [biostatistics Julia](https://stats.biopapyrus.jp/julia/)   
